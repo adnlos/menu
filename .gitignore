@@ -1,0 +1,10 @@
+#gitIgnore
+.svn
+stacktrace.log
+target
+.classpath
+.project
+build.xml
+.classpath
+.project
+.settings
